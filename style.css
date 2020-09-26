@@ -1,0 +1,51 @@
+
+    
+body { 
+
+    background-color: black; 
+    
+    } 
+    
+    #container{ 
+ /* margin, padding and witdth bases on CSS Box Model where box wraps around HTML element*/   
+    background-color: white; 
+    color: black; 
+    font-family: Asap; 
+    margin: 10px auto;
+    padding: 20px;
+    width: 50%;
+    }
+        .left-col{
+            float: left; 
+        }
+         h1{
+            color: #A64AC9;
+         }   
+        .button {
+            border: solid;
+            border-width: thin;
+            border-radius: 100px;
+            color: #A64AC9; 
+            width: 30px;
+            height: 10px;
+            
+    
+            }    
+        img{
+            width: 200px;
+        }
+        .right-col{
+            float:right;
+            
+        }
+       
+        .clearFix{ 
+
+            clear: both 
+            
+            } 
+
+
+
+
+    
