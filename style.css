@@ -1,8 +1,9 @@
 
-    
+
 body { 
 
     background-color: black; 
+    
     
     } 
     
@@ -10,7 +11,7 @@ body {
  /* margin, padding and witdth bases on CSS Box Model where box wraps around HTML element*/   
     background-color: white; 
     color: black; 
-    font-family: Asap; 
+    font-family: 'Asap', sans-serif;
     margin: 10px auto;
     padding: 20px;
     width: 50%;
