@@ -25,11 +25,13 @@ body {
         .button {
             border: solid;
             border-width: thin;
-            border-radius: 100px;
+            border-radius: 10px;
             color: #A64AC9; 
             width: 30px;
             height: 10px;
-            
+            text-decoration: none;
+            padding:10px;
+
     
             }    
         img{
